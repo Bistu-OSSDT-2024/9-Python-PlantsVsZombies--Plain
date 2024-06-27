@@ -1,7 +1,7 @@
 PythonPlantsVsZombies—Plain
 一个简单的植物大战僵尸游戏。
 
-注意！！！本项目为https://github.com/marblexu/PythonPlantsVsZombies原项目的拓展，在此基础上修改樱桃炸弹和土豆雷的bug，修改原植物火爆辣椒，增添新植物戴夫和双子向日葵。
+注意！！！本项目为https://github.com/marblexu/PythonPlantsVsZombies 原项目的拓展，在此基础上修改樱桃炸弹和土豆雷的bug，修改原植物火爆辣椒，增添新植物戴夫和双子向日葵。
 仅供个人学习和非商业用途，欢迎大家讨论学习。如侵犯版权，还请告知！
 
 植物:向日葵，豌豆射手，坚果，寒冰豌豆射手，樱桃炸弹，三重豌豆射手，大嘴花, 小喷菇, 土豆地雷, 地刺, 胆小菇，窝瓜，火爆辣椒，阳光菇, 寒冰菇, 魅惑菇，戴夫，双子向日葵。
