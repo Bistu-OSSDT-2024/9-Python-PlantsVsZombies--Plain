@@ -1,1 +1,9 @@
+配置：
+Python3.7级以上版本、pygame 1.9级以上版本
+(对于LINUX：如果Linux系统预装了python 3+，即可以运行游戏。直接更新到 python 3.7 可能会破坏 LINUX Mint。)
+—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+安装方法：
+网站：Github Bistu-OSSDT-2024/9-Python-PlantsVsZombies--Plain (github.com)
+文档：GitHub Bistu-OSSDT-2024/9-Python-PlantsVsZombies--Plain (github.com)
+下载代码，解压成文件夹，并在自己设备的python编译器（IDE）中打开，运行main.py
 
